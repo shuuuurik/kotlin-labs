@@ -1,0 +1,6 @@
+*/.gradle
+*/.idea
+*/build
+
+# Ignore the .gitignore file itself
+!.gitignore
